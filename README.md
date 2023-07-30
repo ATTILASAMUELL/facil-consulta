@@ -59,7 +59,7 @@ composer install
 
 ```
 
-### Comandos Laravel necessarios  
+### Comandos Laravel necessário  
 ```bash
 sail artisan key:generate
 ```
